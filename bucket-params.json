@@ -1,0 +1,10 @@
+[
+  {
+    "ParameterKey": "ProjectName",
+    "ParameterValue": "HighAvailable-WebApp"
+  },
+  {
+    "ParameterKey": "BucketName",
+    "ParameterValue": "myca4rl0bucket"
+  }
+]
